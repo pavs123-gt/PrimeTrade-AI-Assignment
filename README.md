@@ -164,7 +164,7 @@ The project generates the following visualizations to analyze the relationship b
 
 ### 9. Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Heatmap.png)
   ## Key Findings
 
 - Fear sentiment recorded the highest overall trading activity.
