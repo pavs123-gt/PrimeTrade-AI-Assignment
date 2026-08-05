@@ -12,7 +12,7 @@ The project is implemented using Python in Google Colab with Pandas, NumPy, Matp
 - [ Features](#features)
 - [ Project Structure](#project-structure)
 - [ Dataset](#dataset)
-- [ Setup & Installation](#️setup-& installation)
+- [ Setup & Installation](#️setup--installation)
 - [ Usage](#️usage)
 - [ Exploratory Data Analysis](#exploratory-data-analysis)
 - [ Visualizations](#visualizations)
