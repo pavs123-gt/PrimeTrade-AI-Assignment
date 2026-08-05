@@ -9,20 +9,20 @@ The project is implemented using Python in Google Colab with Pandas, NumPy, Matp
 
 ## 📑 Table of Contents
 
-- [ Features](#-features)
-- [ Project Structure](#-project-structure)
-- [ Dataset](#-dataset)
-- [ Setup & Installation](#️-setup--installation)
-- [ Usage](#️-usage)
-- [ Exploratory Data Analysis](#-exploratory-data-analysis)
-- [ Visualizations](#-visualizations)
-- [ Key Findings](#-key-findings)
-- [ Technologies Used](#️-technologies-used)
-- [ Requirements](#-requirements)
-- [ Future Improvements](#-future-improvements)
-- [ License](#-license)
+- [ Features](#features)
+- [ Project Structure](#project-structure)
+- [ Dataset](#dataset)
+- [ Setup & Installation](#️setup--installation)
+- [ Usage](#️usage)
+- [ Exploratory Data Analysis](#exploratory-data-analysis)
+- [ Visualizations](#visualizations)
+- [ Key Findings](#key-findings)
+- [ Technologies Used](#️technologies-used)
+- [ Requirements](#requirements)
+- [ Future Improvements](#future-improvements)
+- [ License](#license)
 
- ## - Features
+ ##  Features
 - Data cleaning and preprocessing
 - Merging historical trading data with Fear & Greed Index
 - Market sentiment classification
