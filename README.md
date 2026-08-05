@@ -114,55 +114,55 @@ The notebook performs:
 
 The project generates the following visualizations to analyze the relationship between market sentiment and trader performance.
 
-### 1. Average Closed PnL by Market Sentiment
+### 1. 
 
 ![Average Closed PnL](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Aversge%20Closed%20Pnl.png)
 
 ---
 
-### 2. Total Closed PnL by Market Sentiment
+### 2. 
 
 ![Total Closed PnL](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Total%20Closed%20Pnl.png)
 
 ---
 
-### 3. Number of Trades by Market Sentiment
+### 3. 
 
 ![Number of Trades](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/No.of_Trades.png)
 
 ---
 
-### 4. Average Trade Size by Market Sentiment
+### 4.
 
 ![Average Trade Size](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Average_Trade_Size.png)
 
 ---
 
-### 5. Average Execution Price by Market Sentiment
+### 5. 
 
 ![Average Execution Price](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Average_Execution_Price.png)
 
 ---
 
-### 6. Profit vs Loss Across Market Sentiments
+### 6. 
 
 ![Profit vs Loss](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Profit_vs_Loss.png)
 
 ---
 
-### 7. Closed PnL Distribution
+### 7. 
 
 ![Closed PnL Distribution](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Distrubution_of_closed_pnl.png)
 
 ---
 
-### 8. Trading Fee Distribution
+### 8. 
 
 ![Trading Fee Distribution](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Distribution_of_TradingFree.png)
 
 ---
 
-### 9. Correlation Heatmap
+### 9.
 
 ![Correlation Heatmap](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Heatmap.png)
   ## Key Findings
