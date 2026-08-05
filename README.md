@@ -33,5 +33,12 @@ The project is implemented using Python in Google Colab with Pandas, NumPy, Matp
 - Correlation Heatmap
 - Visualization of trading metrics
 - Summary of market sentiment insights
+## Project Structure
 
+PrimeTrade-AI-Assignment/
+│
+├── PrimeTrade_AI_Assignment.ipynb
+├── requirements.txt
+├── fear_greed_index.csv
+├── README.md
 
