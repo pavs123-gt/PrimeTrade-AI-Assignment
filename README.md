@@ -140,7 +140,7 @@ The project generates the following visualizations to analyze the relationship b
 
 ### 5. Average Execution Price by Market Sentiment
 
-![Average Execution Price](images/average_execution_price.png)
+![Average Execution Price](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Average_Execution_Price.png)
 
 ---
 
