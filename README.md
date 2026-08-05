@@ -12,7 +12,7 @@ The project is implemented using Python in Google Colab with Pandas, NumPy, Matp
 - [ Features](#features)
 - [ Project Structure](#project-structure)
 - [ Dataset](#dataset)
-- [ Setup & Installation](#️setup--installation)
+- [Setup and Installation](#setup-and-installation)
 - [ Usage](#️Usage)
 - [ Exploratory Data Analysis](#exploratory-data-analysis)
 - [ Visualizations](#visualizations)
@@ -64,7 +64,7 @@ Contains historical cryptocurrency trading data.
 **Download:**
 https://drive.google.com/file/d/1vHfiuPGjVYIGKhAhQX9DQwNEYsrjoWvc/view?usp=sharing
 
-## Setup & Installation
+## Setup and Installation
 
 ### 1. Clone the Repository
 
