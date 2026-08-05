@@ -41,4 +41,23 @@ PrimeTrade-AI-Assignment/
 ├── requirements.txt
 ├── fear_greed_index.csv
 ├── README.md
+## Dataset
 
+The project uses two datasets:
+
+1. fear_greed_index.csv
+   - Contains historical Fear & Greed Index values.
+
+2. historical_data.csv
+   - Contains cryptocurrency trading history.
+   - Due to GitHub file size limitations, this dataset is not included in this repository.
+## Setup & Installation
+Clone the repository
+
+git clone https://github.com/yourusername/PrimeTrade-AI-Assignment.git
+
+Install dependencies
+
+pip install -r requirements.txt
+
+Open the notebook using Jupyter Notebook or Google Colab.
