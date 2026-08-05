@@ -99,7 +99,7 @@ Open the notebook using **Google Colab** or **Jupyter Notebook**.
 or
 
 🔗 **Google Colab Notebook:**  
-https://colab.research.google.com/drive/YOUR_COLAB_NOTEBOOK_LINK
+https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/PrimeTrade_AI_Assignment.ipynb
 
 #### Option 2: Open Locally
 
