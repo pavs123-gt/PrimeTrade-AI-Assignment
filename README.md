@@ -122,7 +122,7 @@ The project generates the following visualizations to analyze the relationship b
 
 ### 2. Total Closed PnL by Market Sentiment
 
-![Total Closed PnL]()
+![Total Closed PnL](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Total%20Closed%20Pnl.png)
 
 ---
 
