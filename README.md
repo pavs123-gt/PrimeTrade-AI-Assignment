@@ -134,7 +134,7 @@ The project generates the following visualizations to analyze the relationship b
 
 ### 4. Average Trade Size by Market Sentiment
 
-![Average Trade Size](images/average_trade_size.png)
+![Average Trade Size](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Average_Trade_Size.png)
 
 ---
 
