@@ -112,17 +112,59 @@ The notebook performs:
 - Market Sentiment Analysis
   ## Visualizations
 
-The project includes:
+The project generates the following visualizations to analyze the relationship between market sentiment and trader performance.
 
-- Average Closed PnL by Market Sentiment
-- Total Closed PnL by Market Sentiment
-- Number of Trades by Market Sentiment
-- Average Trade Size
-- Average Execution Price
-- Profit vs Loss Comparison
-- Closed PnL Distribution
-- Trading Fee Distribution
-- Correlation Heatmap
+### 1. Average Closed PnL by Market Sentiment
+
+![Average Closed PnL](images/average_closed_pnl.png)
+
+---
+
+### 2. Total Closed PnL by Market Sentiment
+
+![Total Closed PnL](images/total_closed_pnl.png)
+
+---
+
+### 3. Number of Trades by Market Sentiment
+
+![Number of Trades](images/number_of_trades.png)
+
+---
+
+### 4. Average Trade Size by Market Sentiment
+
+![Average Trade Size](images/average_trade_size.png)
+
+---
+
+### 5. Average Execution Price by Market Sentiment
+
+![Average Execution Price](images/average_execution_price.png)
+
+---
+
+### 6. Profit vs Loss Across Market Sentiments
+
+![Profit vs Loss](images/profit_vs_loss.png)
+
+---
+
+### 7. Closed PnL Distribution
+
+![Closed PnL Distribution](images/closed_pnl_distribution.png)
+
+---
+
+### 8. Trading Fee Distribution
+
+![Trading Fee Distribution](images/trading_fee_distribution.png)
+
+---
+
+### 9. Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
   ## Key Findings
 
 - Fear sentiment recorded the highest overall trading activity.
