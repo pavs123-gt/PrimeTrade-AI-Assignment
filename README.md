@@ -22,7 +22,7 @@ The project is implemented using Python in Google Colab with Pandas, NumPy, Matp
 - [ Future Improvements](#-future-improvements)
 - [ License](#-license)
 
- ## Features
+ ## - Features
 - Data cleaning and preprocessing
 - Merging historical trading data with Fear & Greed Index
 - Market sentiment classification
