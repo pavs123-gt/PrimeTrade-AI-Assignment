@@ -22,4 +22,16 @@ The project is implemented using Python in Google Colab with Pandas, NumPy, Matp
 - Future Improvements
 - License
 
+ ## Features
+- Data cleaning and preprocessing
+- Merging historical trading data with Fear & Greed Index
+- Market sentiment classification
+- Exploratory Data Analysis (EDA)
+- Statistical analysis of trader performance
+- Profit vs Loss analysis
+- Distribution analysis of Closed PnL and Trading Fee
+- Correlation Heatmap
+- Visualization of trading metrics
+- Summary of market sentiment insights
+
 
