@@ -198,5 +198,4 @@ Required Libraries
 - Develop an interactive dashboard using Streamlit or Power BI.
 - Incorporate additional technical indicators and market data.
   ## License
-
-This project is developed for educational and assignment purposes.
+This project is shared for educational and evaluation purposes only. All rights are reserved by the author.
