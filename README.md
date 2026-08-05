@@ -92,6 +92,19 @@ Download both datasets from the links provided in the **Dataset** section and pl
 
 Open the notebook using **Google Colab** or **Jupyter Notebook**.
 
+#### Option 1: Open in Google Colab (Recommended)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_NOTEBOOK_LINK)
+
+or
+
+🔗 **Google Colab Notebook:**  
+https://colab.research.google.com/drive/YOUR_COLAB_NOTEBOOK_LINK
+
+#### Option 2: Open Locally
+
+Open the `PrimeTrade_AI_Assignment.ipynb` notebook using Jupyter Notebook or VS Code after downloading the repository.
+
 ## Usage
 
 1. Open the notebook.
