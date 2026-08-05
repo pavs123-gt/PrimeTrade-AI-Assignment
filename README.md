@@ -53,7 +53,7 @@ The project uses two datasets:
 Contains historical Fear & Greed Index values.
 
 **Download:**
-https://drive.google.com/file/d/PASTE_FEAR_GREED_LINK_HERE/view?usp=sharing
+
 
 ---
 
