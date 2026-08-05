@@ -1,43 +1,12 @@
 # PrimeTrade-AI-Assignment
-# PrimeTrade AI Assignment
 
 ## Objective
+This project analyzes the relationship between cryptocurrency market sentiment and trader performance using historical trading data and the Fear & Greed Index.
 
-Analyze the relationship between Bitcoin market sentiment (Fear & Greed Index) and trader performance using Hyperliquid historical trading data.
+The analysis includes data preprocessing, exploratory data analysis (EDA), statistical analysis, and data visualizations to understand how different market sentiments influence trading outcomes, profitability, trade size, execution price, and trading activity.
 
-## Dataset
+The project is implemented using Python in Google Colab with Pandas, NumPy, Matplotlib, and Seaborn.
 
-- historical_data.csv
-- fear_greed_index.csv
 
-## Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Google Colab
 
-## Analysis Performed
-
-- Data Cleaning
-- Data Merging
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Data Visualization
-
-## Visualizations
-
-- Correlation Heatmap
-- Average Closed PnL
-- Total Closed PnL
-- Average Trade Size
-- Average Execution Price
-- Profit vs Loss
-- Number of Trades
-- Histograms
-
-## Conclusion
-
-The analysis shows that market sentiment influences trading activity and profitability. Extreme Greed produced the highest average Closed PnL, while Fear periods had the highest trading activity.
