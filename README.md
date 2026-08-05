@@ -158,7 +158,7 @@ The project generates the following visualizations to analyze the relationship b
 
 ### 8. Trading Fee Distribution
 
-![Trading Fee Distribution](images/trading_fee_distribution.png)
+![Trading Fee Distribution](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Distribution_of_TradingFree.png)
 
 ---
 
