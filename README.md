@@ -65,15 +65,33 @@ Contains historical cryptocurrency trading data.
 https://drive.google.com/file/d/1vHfiuPGjVYIGKhAhQX9DQwNEYsrjoWvc/view?usp=sharing
 
 ## Setup & Installation
-Clone the repository
 
-git clone https://github.com/yourusername/PrimeTrade-AI-Assignment.git
+### 1. Clone the Repository
 
-Install dependencies
+```bash
+git clone https://github.com/pavs123-gt/PrimeTrade-AI-Assignment.git
+```
 
+### 2. Navigate to the Project Folder
+
+```bash
+cd PrimeTrade-AI-Assignment
+```
+
+### 3. Install Required Libraries
+
+```bash
 pip install -r requirements.txt
+```
 
-Open the notebook using Jupyter Notebook or Google Colab.
+### 4. Download the Datasets
+
+Download both datasets from the links provided in the **Dataset** section and place them inside the project folder.
+
+### 5. Launch the Notebook
+
+Open the notebook using **Google Colab** or **Jupyter Notebook**.
+
 ## Usage
 
 1. Open the notebook.
