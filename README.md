@@ -62,7 +62,7 @@ https://drive.google.com/file/d/1qlPps0aySSCfV0JOGqq2HhZRHCBQsnDS/view?usp=shari
 Contains historical cryptocurrency trading data.
 
 **Download:**
-https://drive.google.com/file/d/PASTE_HISTORICAL_DATA_LINK_HERE/view?usp=sharing
+https://drive.google.com/file/d/1vHfiuPGjVYIGKhAhQX9DQwNEYsrjoWvc/view?usp=sharing
 
 ## Setup & Installation
 Clone the repository
