@@ -35,12 +35,15 @@ The project is implemented using Python in Google Colab with Pandas, NumPy, Matp
 - Summary of market sentiment insights
 ## Project Structure
 
+```text
 PrimeTrade-AI-Assignment/
 │
-├── PrimeTrade_AI_Assignment.ipynb
-├── requirements.txt
-├── fear_greed_index.csv
-├── README.md
+├── PrimeTrade_AI_Assignment.ipynb    # Main analysis notebook
+├── README.md                         # Project documentation
+├── requirements.txt                  # Required Python libraries
+├── fear_greed_index.csv              # Fear & Greed Index dataset
+└── historical_data.csv               # Trading dataset (not included due to GitHub size limit)
+```
 ## Dataset
 
 The project uses two datasets:
