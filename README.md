@@ -128,7 +128,7 @@ The project generates the following visualizations to analyze the relationship b
 
 ### 3. Number of Trades by Market Sentiment
 
-![Number of Trades](images/number_of_trades.png)
+![Number of Trades](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/No.of_Trades.png)
 
 ---
 
