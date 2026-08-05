@@ -91,12 +91,10 @@ Download both datasets from the links provided in the **Dataset** section and pl
 ### 5. Launch the Notebook
 
 Open the notebook using 
+
 🔗**Google Colab Notebook:**  
 https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/PrimeTrade_AI_Assignment.ipynb
 
-#### Option 2: Open Locally
-
-Open the `PrimeTrade_AI_Assignment.ipynb` notebook using Jupyter Notebook or VS Code after downloading the repository.
 
 ## Usage
 
