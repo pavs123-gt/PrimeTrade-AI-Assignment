@@ -146,7 +146,7 @@ The project generates the following visualizations to analyze the relationship b
 
 ### 6. Profit vs Loss Across Market Sentiments
 
-![Profit vs Loss](images/profit_vs_loss.png)
+![Profit vs Loss](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Profit_vs_Loss.png)
 
 ---
 
