@@ -152,7 +152,7 @@ The project generates the following visualizations to analyze the relationship b
 
 ### 7. Closed PnL Distribution
 
-![Closed PnL Distribution](images/closed_pnl_distribution.png)
+![Closed PnL Distribution](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Distrubution_of_closed_pnl.png)
 
 ---
 
