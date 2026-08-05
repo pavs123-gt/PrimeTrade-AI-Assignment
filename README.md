@@ -7,20 +7,20 @@ The analysis includes data preprocessing, exploratory data analysis (EDA), stati
 
 The project is implemented using Python in Google Colab with Pandas, NumPy, Matplotlib, and Seaborn.
 
-## Table of Contents
+## 📑 Table of Contents
 
-- Features
-- Project Structure
-- Dataset
-- Setup & Installation
-- Usage
-- Exploratory Data Analysis
-- Visualizations
-- Key Findings
-- Technologies Used
-- Requirements
-- Future Improvements
-- License
+- [ Features](#-features)
+- [ Project Structure](#-project-structure)
+- [ Dataset](#-dataset)
+- [ Setup & Installation](#️-setup--installation)
+- [ Usage](#️-usage)
+- [ Exploratory Data Analysis](#-exploratory-data-analysis)
+- [ Visualizations](#-visualizations)
+- [ Key Findings](#-key-findings)
+- [ Technologies Used](#️-technologies-used)
+- [ Requirements](#-requirements)
+- [ Future Improvements](#-future-improvements)
+- [ License](#-license)
 
  ## Features
 - Data cleaning and preprocessing
