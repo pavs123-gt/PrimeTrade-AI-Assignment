@@ -48,12 +48,22 @@ PrimeTrade-AI-Assignment/
 
 The project uses two datasets:
 
-1. fear_greed_index.csv
-   - Contains historical Fear & Greed Index values.
+### 1. fear_greed_index.csv
 
-2. historical_data.csv
-   - Contains cryptocurrency trading history.
-   - Due to GitHub file size limitations, this dataset is not included in this repository.
+Contains historical Fear & Greed Index values.
+
+**Download:**
+https://drive.google.com/file/d/PASTE_FEAR_GREED_LINK_HERE/view?usp=sharing
+
+---
+
+### 2. historical_data.csv
+
+Contains historical cryptocurrency trading data.
+
+**Download:**
+https://drive.google.com/file/d/PASTE_HISTORICAL_DATA_LINK_HERE/view?usp=sharing
+
 ## Setup & Installation
 Clone the repository
 
