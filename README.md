@@ -61,3 +61,69 @@ Install dependencies
 pip install -r requirements.txt
 
 Open the notebook using Jupyter Notebook or Google Colab.
+## Usage
+
+1. Open the notebook.
+2. Upload the datasets.
+3. Execute all notebook cells.
+4. View the statistical analysis.
+5. Explore the visualizations.
+## Exploratory Data Analysis
+
+The notebook performs:
+
+- Data Cleaning
+- Missing Value Analysis
+- Duplicate Removal
+- Data Type Conversion
+- Dataset Merging
+- Statistical Summary
+- Market Sentiment Analysis
+  ## Visualizations
+
+The project includes:
+
+- Average Closed PnL by Market Sentiment
+- Total Closed PnL by Market Sentiment
+- Number of Trades by Market Sentiment
+- Average Trade Size
+- Average Execution Price
+- Profit vs Loss Comparison
+- Closed PnL Distribution
+- Trading Fee Distribution
+- Correlation Heatmap
+  ## Key Findings
+
+- Fear sentiment recorded the highest overall trading activity.
+- Extreme Greed showed the highest average Closed PnL.
+- Loss-making trades outnumbered profitable trades across all market sentiments.
+- Trading fees were generally low, with a small number of high-fee outliers.
+- Most Closed PnL values were concentrated around zero, while a few trades generated significantly larger profits or losses.
+- Correlation analysis showed only weak relationships among most numerical variables.
+  ## Technologies Used
+
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+  ## Requirements
+
+Python 3.9+
+
+Required Libraries
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+  ## Future Improvements
+
+- Build predictive machine learning models for trader performance.
+- Perform time-series forecasting of market sentiment.
+- Develop an interactive dashboard using Streamlit or Power BI.
+- Incorporate additional technical indicators and market data.
+  ## License
+
+This project is developed for educational and assignment purposes.
