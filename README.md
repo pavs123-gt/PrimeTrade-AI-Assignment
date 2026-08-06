@@ -171,9 +171,14 @@ The project generates the following visualizations to analyze the relationship b
 ![Correlation Heatmap](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/correlation_Heatmap.png)
 
 ---
-###10.
+### 10.
 
 ![Closed Pnl](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/closed_pnl_distribution.png)
+
+---
+### 11.
+
+![Win Rate](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Win%20Rate.png)
   ## Key Findings
   
 ### Insight 1
