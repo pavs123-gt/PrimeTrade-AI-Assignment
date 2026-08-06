@@ -179,6 +179,10 @@ The project generates the following visualizations to analyze the relationship b
 ### 11.
 
 ![Win Rate](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Win%20Rate.png)
+
+---
+### 12.
+![Trade_size vs closed_pnl](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Trade_size_vs_closed_pnl.png)
   ## Key Findings
   
 ### Insight 1
