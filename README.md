@@ -183,6 +183,10 @@ The project generates the following visualizations to analyze the relationship b
 ---
 ### 12.
 ![Trading size vs closed pnl](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Trade_size_vs_closed_pnl.png)
+
+---
+### 13.
+![trading fee vs closed pnl](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Trade_fee_vs_closed_pnl.png)
   ## Key Findings
   
 ### Insight 1
