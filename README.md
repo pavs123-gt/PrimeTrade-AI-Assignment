@@ -170,13 +170,24 @@ The project generates the following visualizations to analyze the relationship b
 
 ![Correlation Heatmap](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Heatmap.png)
   ## Key Findings
+  
+### Insight 1
+Fear periods recorded the highest trading activity, indicating that traders become more active during volatile market conditions.
 
-- Fear sentiment recorded the highest overall trading activity.
-- Extreme Greed showed the highest average Closed PnL.
-- Loss-making trades outnumbered profitable trades across all market sentiments.
-- Trading fees were generally low, with a small number of high-fee outliers.
-- Most Closed PnL values were concentrated around zero, while a few trades generated significantly larger profits or losses.
-- Correlation analysis showed only weak relationships among most numerical variables.
+### Insight 2
+Extreme Greed produced the highest average Closed PnL, suggesting that positive market sentiment may lead to better average trade performance.
+
+### Insight 3
+Loss-making trades outnumbered profitable trades across all market sentiments, highlighting the importance of disciplined risk management.
+
+### Insight 4
+Trade size and transaction fees are strongly correlated, as larger trades naturally incur higher fees.
+
+### Insight 5
+Closed PnL showed weak linear relationships with execution price and fees, indicating that profitability depends on multiple interacting factors rather than a single metric.
+
+### Insight 6
+Some coins and traders consistently outperformed others, suggesting that asset selection and trading strategy play an important role in performance.
   ## Technologies Used
 
 - Python
