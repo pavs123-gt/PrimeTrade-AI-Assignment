@@ -195,6 +195,10 @@ The project generates the following visualizations to analyze the relationship b
 ---
 ### 15.
 ![top coins](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Top_Coins.png)
+
+---
+### 16.
+![avg fee](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Average_Fee.png)
   ## Key Findings
   
 ### Insight 1
