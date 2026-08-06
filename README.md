@@ -93,7 +93,7 @@ Download both datasets from the links provided in the **Dataset** section and pl
 Open the notebook using 
 
 🔗**Google Colab Notebook:**  
-https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/PrimeTrade_AI_Assignment.ipynb
+https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/PrimeTrade_AI_Assignment%20.ipynb
 
 
 ## Usage
