@@ -191,6 +191,10 @@ The project generates the following visualizations to analyze the relationship b
 ---
 ### 14.
 ![top traders](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Top_Traders.png)
+
+---
+### 15.
+![top coins](https://github.com/pavs123-gt/PrimeTrade-AI-Assignment/blob/main/Top_Coins.png)
   ## Key Findings
   
 ### Insight 1
